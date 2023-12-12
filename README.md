@@ -1,7 +1,3 @@
-# Fault-identification-in-wind-turbine
-
-Here is a draft README.md file for your research work on fault identification in wind turbines using neural networks:
-
 # Fault Identification in Wind Turbines using Neural Networks
 
 ## Overview
@@ -30,5 +26,3 @@ The results validate that CNNs can learn useful patterns from wind turbine data 
 
 ## Reference
 The full paper is available [here](22MCA1065_FullPaper.docx).
-
-Let me know if you would like me to modify or add any other details!
